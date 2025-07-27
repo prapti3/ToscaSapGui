@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\10 Generate and verify Sales Order - Steering SAP Toolbar.db</DatabasePathAndName>
+    <Database>C:\Users\prapt\OneDrive\Desktop\ToscaSapGui\LearnSapGui\10_ToolbarMenuModule\10 Generate and verify Sales Order - Steering SAP Toolbar\Repository\10 Generate and verify Sales Order - Steering SAP Toolbar.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1b5d51-62e1-f64c-7fe1-aa062b0e4d99</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>36207813-330d-4c7a-bcc5-632a494edeb7</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

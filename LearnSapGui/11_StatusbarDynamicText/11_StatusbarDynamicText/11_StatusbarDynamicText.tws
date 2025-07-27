@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\11_StatusbarDynamicText.db</DatabasePathAndName>
+    <Database>C:\Users\prapt\OneDrive\Desktop\ToscaSapGui\LearnSapGui\11_StatusbarDynamicText\11_StatusbarDynamicText\Repository\11_StatusbarDynamicText.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1b5d6c-3924-8f25-a49d-74f2fc44d637</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>99eb2011-d053-4a16-bb32-f4f32de7b141</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
