@@ -10,3 +10,12 @@ Division - 00
 sold-to Party - 1175
 Ship-top Party - 1175
 PO Number - 123
+
+Out Bound delivery 
+
+Shipping Point - 1201
+select date - set future date
+order number : generate in buffer (manually take and paste )
+Enter 
+
+
