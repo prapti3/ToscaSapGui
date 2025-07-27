@@ -1,0 +1,96 @@
+[3] 05:36:12: Log started for 'C:\Users\prapt\OneDrive\Desktop\ToscaSapGui\LearnSapGui\Sample Standard Module\Sample Standard Module.tws'
+[3] 05:36:12: Log level: 4
+[3] 05:36:12: Release: 16.0.0.3027
+[3] 05:36:13: Execution Approval is disabled.
+[3] 05:36:13: No service discovery configured.
+[3] 05:36:13:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 05:36:13: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 05:36:13: Searcher found 0 results in 33.1 ms
+[3] 05:36:13:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 05:36:13:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 05:36:13:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 05:36:13:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 05:36:13:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 05:36:13:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 05:36:13: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\ToscaSapGui\LearnSapGui\Sample Standard Module\Sample Standard Module.tws'
+[4] 05:36:19:  ShowStatusInfo: 'Ready'
+[4] 05:36:31:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 05:36:31:  ShowStatusInfo: 'Ready'
+[4] 05:36:31:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 05:36:31:  ShowStatusInfo: 'Ready'
+[4] 05:36:31:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 05:36:31:  ShowStatusInfo: 'Refresh all finished'
+[4] 05:36:32:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 05:36:32:  ShowStatusInfo: 'Ready'
+[4] 05:36:32:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 05:36:32:  ShowStatusInfo: 'Ready'
+[4] 05:36:32:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 05:36:32:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 05:36:33:  ShowStatusInfo: 'Refresh all finished'
+[3] 05:36:33: OpenWorkspace took 00:00:22.0831769 to finish
+[2] 05:36:33: Common repository is not available
+[4] 05:36:38:  ShowStatusInfo: 'Ready'
+[4] 05:36:55:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 05:36:55:  ShowStatusInfo: 'Ready'
+[4] 05:36:55:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 05:36:55:  ShowStatusInfo: 'Ready'
+[4] 05:36:55:  ShowStatusInfo: 'Refresh view finished'
+[4] 05:36:56:  ShowStatusInfo: 'Ready'
+[4] 05:36:56:  ShowStatusInfo: '1 object selected'
+[4] 05:36:58:  ShowStatusInfo: 'Ready'
+[4] 05:36:58:  ShowStatusInfo: '1 object selected'
+[4] 05:36:59:  ShowStatusInfo: 'Ready'
+[4] 05:36:59:  ShowStatusInfo: '1 object selected'
+[4] 05:37:00:  ShowStatusInfo: 'Ready'
+[4] 05:37:00:  ShowStatusInfo: '1 object selected'
+[4] 05:37:00:  ShowStatusInfo: 'Ready'
+[4] 05:37:00:  ShowStatusInfo: '1 object selected'
+[4] 05:37:01:  ShowStatusInfo: 'Ready'
+[4] 05:37:01:  ShowStatusInfo: '1 object selected'
+[4] 05:37:02:  ShowStatusInfo: 'Ready'
+[4] 05:37:02:  ShowStatusInfo: '1 object selected'
+[4] 05:37:07:  ShowStatusInfo: 'Ready'
+[3] 05:37:38: Closing Workspace!
+[3] 05:37:38: Log closed!

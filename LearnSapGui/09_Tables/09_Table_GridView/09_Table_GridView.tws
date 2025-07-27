@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\09_Table_GridView.db</DatabasePathAndName>
+    <Database>C:\Users\prapt\OneDrive\Desktop\ToscaSapGui\LearnSapGui\09_Tables\09_Table_GridView\Repository\09_Table_GridView.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1b5c4b-7362-1ddf-79f8-79a935b97f70</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>b827c8af-6400-47d8-aded-ce12f0a1f670</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

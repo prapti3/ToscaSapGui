@@ -1,0 +1,27 @@
+[Info] 27-07-2025 05:14:06: Auto-exclusion started
+[Info] 27-07-2025 05:14:07: 0/100 - Unused objects exclusion
+[Info] 27-07-2025 05:14:09: 50/100 - Unused objects exclusion
+[Info] 27-07-2025 05:14:09: 100/100 - Unused objects exclusion
+[Info] 27-07-2025 05:14:09: Auto-exclusion finished
+[Info] 27-07-2025 05:14:20: Compacting started
+[Info] 27-07-2025 05:14:20: 0/100 - Compacting Workspace
+[Info] 27-07-2025 05:14:20: Compacting Workspace - Defragmentation finished in 00:00:00.4181561, database size: 933888
+[Info] 27-07-2025 05:14:20: -2147483648/-2147483648 - Recalculating index statistics
+[Info] 27-07-2025 05:14:21: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0634921, database size: 933888
+[Info] 27-07-2025 05:14:21: Compacting finished
+[Info] 27-07-2025 08:47:22: Auto-exclusion started
+[Info] 27-07-2025 08:47:22: 0/100 - Unused objects exclusion
+[Info] 27-07-2025 08:47:23: 50/100 - Unused objects exclusion
+[Info] 27-07-2025 08:47:23: 100/100 - Unused objects exclusion
+[Info] 27-07-2025 08:47:23: Auto-exclusion finished
+[Info] 27-07-2025 08:47:34: 82/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 27-07-2025 08:47:34: Compacting started
+[Info] 27-07-2025 08:47:34: Compacting Workspace - Defragmentation finished in 00:00:00.1290127, database size: 1261568
+[Info] 27-07-2025 08:47:34: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0249958, database size: 1261568
+[Info] 27-07-2025 08:47:34: Compacting finished
+[Info] 27-07-2025 08:47:35: 86/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 27-07-2025 08:47:36: 91/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 27-07-2025 08:47:37: 95/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 27-07-2025 08:47:38: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 08:47:39: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 08:47:40: 99/100 - Defragmenting Data - [estimated time left 0 s]

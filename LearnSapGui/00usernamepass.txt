@@ -1,0 +1,12 @@
+SAP GUI:
+Username : TRI_0425366
+Password : bhushan@123
+
+Order type : OR
+Sales Org : 1000/800
+Distribution Channel - 12
+Division - 00
+
+sold-to Party - 1175
+Ship-top Party - 1175
+PO Number - 123

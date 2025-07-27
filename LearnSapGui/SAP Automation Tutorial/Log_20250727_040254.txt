@@ -1,0 +1,122 @@
+[3] 04:02:54: Log started for 'C:\Users\prapt\OneDrive\Desktop\ToscaSapGui\LearnSapGui\SAP Automation Tutorial\SAP Automation Tutorial.tws'
+[3] 04:02:54: Log level: 4
+[3] 04:02:54: Release: 16.0.0.3027
+[3] 04:02:54: Execution Approval is disabled.
+[3] 04:02:54: No service discovery configured.
+[3] 04:02:54:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 04:02:54: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 04:02:54: Searcher found 0 results in 36.3709 ms
+[3] 04:02:54:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 04:02:54:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 04:02:54:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 04:02:54:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 04:02:54:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 04:02:54:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 04:02:54: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\ToscaSapGui\LearnSapGui\SAP Automation Tutorial\SAP Automation Tutorial.tws'
+[4] 04:03:00:  ShowStatusInfo: 'Ready'
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 04:03:06:  ShowStatusInfo: 'Ready'
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 04:03:06:  ShowStatusInfo: 'Ready'
+[4] 04:03:06:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh all finished'
+[4] 04:03:06:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 04:03:06:  ShowStatusInfo: 'Ready'
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 04:03:06:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 04:03:07:  ShowStatusInfo: 'Ready'
+[4] 04:03:07:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 04:03:07:  ShowStatusInfo: 'Refresh all finished'
+[3] 04:03:07: OpenWorkspace took 00:00:14.5043577 to finish
+[2] 04:03:07: Common repository is not available
+[4] 04:03:12:  ShowStatusInfo: 'Ready'
+[4] 04:04:02:  ShowStatusInfo: '1 object selected'
+[4] 04:04:04:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 04:04:04:  ShowStatusInfo: 'Ready'
+[4] 04:04:04:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 04:04:04:  ShowStatusInfo: 'Ready'
+[4] 04:04:04:  ShowStatusInfo: 'Refresh view finished'
+[4] 04:04:06:  ShowStatusInfo: '1 object selected'
+[4] 04:04:06:  ShowStatusInfo: 'Ready'
+[4] 04:04:07:  ShowStatusInfo: '1 object selected'
+[4] 04:04:09:  ShowStatusInfo: 'Ready'
+[4] 04:04:09:  ShowStatusInfo: '1 object selected'
+[4] 04:04:10:  ShowStatusInfo: 'Ready'
+[4] 04:04:11:  ShowStatusInfo: '1 object selected'
+[4] 04:04:12:  ShowStatusInfo: 'Ready'
+[4] 04:04:12:  ShowStatusInfo: '1 object selected'
+[4] 04:04:13:  ShowStatusInfo: 'Ready'
+[4] 04:04:13:  ShowStatusInfo: '1 object selected'
+[4] 04:04:14:  ShowStatusInfo: 'Ready'
+[4] 04:04:15:  ShowStatusInfo: '1 object selected'
+[4] 04:04:16:  ShowStatusInfo: 'Ready'
+[4] 04:04:16:  ShowStatusInfo: '1 object selected'
+[4] 04:04:16:  ShowStatusInfo: 'Ready'
+[4] 04:04:18:  ShowStatusInfo: '1 object selected'
+[4] 04:04:23:  ShowStatusInfo: 'Ready'
+[4] 04:04:46:  ShowStatusInfo: '1 object selected'
+[4] 04:04:49:  ShowStatusInfo: 'Ready'
+[4] 04:04:49:  ShowStatusInfo: '1 object selected'
+[4] 04:04:50:  ShowStatusInfo: 'Ready'
+[4] 04:05:06:  ShowStatusInfo: '1 object selected'
+[4] 04:05:09:  ShowStatusInfo: 'Ready'
+[4] 04:05:09:  ShowStatusInfo: '1 object selected'
+[4] 04:05:10:  ShowStatusInfo: 'Ready'
+[4] 04:05:27:  ShowStatusInfo: '1 object selected'
+[4] 04:05:28:  ShowStatusInfo: 'Ready'
+[4] 04:05:29:  ShowStatusInfo: '1 object selected'
+[4] 04:05:29:  ShowStatusInfo: 'Ready'
+[4] 04:05:30:  ShowStatusInfo: '1 object selected'
+[4] 04:05:30:  ShowStatusInfo: 'Ready'
+[4] 04:05:38:  ShowStatusInfo: '1 object selected'
+[4] 04:05:39:  ShowStatusInfo: 'Ready'
+[4] 04:05:39:  ShowStatusInfo: '1 object selected'
+[4] 04:05:41:  ShowStatusInfo: 'Ready'
+[4] 04:05:41:  ShowStatusInfo: '1 object selected'
+[4] 04:05:42:  ShowStatusInfo: 'Ready'
+[4] 04:05:42:  ShowStatusInfo: '1 object selected'
+[4] 04:05:42:  ShowStatusInfo: 'Ready'
+[3] 05:13:49: Closing Workspace!
+[3] 05:13:49: Log closed!
