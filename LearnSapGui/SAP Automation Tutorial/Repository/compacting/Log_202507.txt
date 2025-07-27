@@ -25,3 +25,35 @@
 [Info] 27-07-2025 08:47:38: 99/100 - Defragmenting Data - [estimated time left 0 s]
 [Info] 27-07-2025 08:47:39: 99/100 - Defragmenting Data - [estimated time left 0 s]
 [Info] 27-07-2025 08:47:40: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:08:05: Auto-exclusion started
+[Info] 27-07-2025 17:08:05: 0/100 - Unused objects exclusion
+[Info] 27-07-2025 17:08:05: 50/100 - Unused objects exclusion
+[Info] 27-07-2025 17:08:05: 100/100 - Unused objects exclusion
+[Info] 27-07-2025 17:08:05: Auto-exclusion finished
+[Info] 27-07-2025 17:08:16: 91/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 27-07-2025 17:08:17: Compacting started
+[Info] 27-07-2025 17:08:17: Compacting Workspace - Defragmentation finished in 00:00:00.2220147, database size: 1261568
+[Info] 27-07-2025 17:08:17: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0283642, database size: 1261568
+[Info] 27-07-2025 17:08:17: Compacting finished
+[Info] 27-07-2025 17:08:17: 96/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:08:18: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:08:19: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:08:20: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:08:21: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:08:22: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:46:53: Auto-exclusion started
+[Info] 27-07-2025 17:46:53: 0/100 - Unused objects exclusion
+[Info] 27-07-2025 17:46:54: 50/100 - Unused objects exclusion
+[Info] 27-07-2025 17:46:54: 100/100 - Unused objects exclusion
+[Info] 27-07-2025 17:46:54: Auto-exclusion finished
+[Info] 27-07-2025 17:47:04: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:47:05: Compacting started
+[Info] 27-07-2025 17:47:05: Compacting Workspace - Defragmentation finished in 00:00:00.2780374, database size: 1331200
+[Info] 27-07-2025 17:47:05: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0370633, database size: 1331200
+[Info] 27-07-2025 17:47:05: Compacting finished
+[Info] 27-07-2025 17:47:05: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:47:06: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:47:07: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:47:08: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:47:09: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 27-07-2025 17:47:10: 99/100 - Defragmenting Data - [estimated time left 0 s]
