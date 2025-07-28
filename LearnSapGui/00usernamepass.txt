@@ -18,4 +18,7 @@ select date - set future date
 order number : generate in buffer (manually take and paste )
 Enter 
 
+Outbound deliver number : 80038069
+
+
 
