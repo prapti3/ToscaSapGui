@@ -9366,3 +9366,14 @@
 [4] 15:13:52:  ShowStatusInfo: 'Refresh  'WindowLabels''
 [4] 15:13:52:  ShowStatusInfo: 'Refresh all finished'
 [4] 15:13:52:  ShowStatusInfo: 'Ready'
+[4] 15:39:59:  ShowStatusInfo: 'Saving ...'
+[3] 15:39:59:  Save started!
+[3] 15:39:59: QTestIntegrationAddIn beginning to Export to QTest
+[3] 15:39:59: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 15:39:59: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 15:39:59: LinkTcToQTestService grouping testcases by same endpoint
+[3] 15:39:59: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 15:39:59: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 15:40:00:  Save finished!
+[4] 15:40:00:  ShowStatusInfo: 'Saved successfully'
+[4] 15:40:00:  ShowStatusInfo: 'Ready'
