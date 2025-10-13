@@ -18,7 +18,9 @@ select date - set future date
 order number : generate in buffer (manually take and paste )
 Enter 
 
-Outbound deliver number : 80038069
+Outbound deliver number : 125226 
+- it will create every time as buffered in 13 Session
+
 
 
 

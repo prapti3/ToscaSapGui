@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Tosca SAP Automation.db</DatabasePathAndName>
+    <Database>C:\Users\prapt\OneDrive\Desktop\ToscaSapGui\Tosca SAP Automation\Repository\Tosca SAP Automation.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1bb26f-e9a6-c99b-7e58-4473e67e0583</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>a53e8298-a108-494e-bb2b-166532465c11</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

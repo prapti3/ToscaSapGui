@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\SAP Automation Practice.db</DatabasePathAndName>
+    <Database>C:\Users\prapt\OneDrive\Desktop\ToscaSapGui\SAP Automation Practice\SAP Automation Practice\Repository\SAP Automation Practice.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1c6dcb-ffeb-8093-5ebf-3f0dd75bd074</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>2132b4ae-7634-46cb-9ca6-cbaa80524ef6</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
